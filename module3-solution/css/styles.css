@@ -77,3 +77,11 @@ h3 {
 	font-style: italic;
 	font-weight: bold;
 }
+
+@media (max-width: 767px) {
+
+	section {
+		width: 280px;
+		margin: 0 auto 15px;
+	}
+}
